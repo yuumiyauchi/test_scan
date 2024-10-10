@@ -1,3 +1,4 @@
+#Terraform_AWSアクセスキー変数
 AWS_ACCESS_KEY_ID      = ISHJJFEKJHDFNSMJSDJS
 AWS_SECRET_ACCESS_KEY  = oHCFDEJEFIUFEDsdwsefs393w8u2j32495//ew84
                          
